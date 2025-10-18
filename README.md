@@ -4,4 +4,4 @@ Respository thực hành cho học phần Nhập môn Công nghệ phần mềm.
 Xin chào! Đây là lần đầu tiên tôi sử dụng Git và GIthub.
 ## Thông tin sinh viên
 - **Họ và tên:** Lê Hữu Nhất
-- **Mã số sinh viên:**24S1080009
+- **Mã số sinh viên:** 24S1080009
